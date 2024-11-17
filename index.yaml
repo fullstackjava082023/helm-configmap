@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  my-helm-chart:
+  - apiVersion: v2
+    appVersion: 2.16.1
+    created: "2024-11-17T21:07:50.846659+02:00"
+    description: A Helm chart for Kubernetes
+    digest: e44011a29cbaf3a14ef1bb27db5927523f32115e6b2a22bd9f96672a31fcd9a0
+    name: my-helm-chart
+    type: application
+    urls:
+    - https://fullstackjava082023.github.io/helm-configmapclear/my-helm-chart-2.1.1.tgz
+    version: 2.1.1
+generated: "2024-11-17T21:07:50.8455977+02:00"
