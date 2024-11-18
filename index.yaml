@@ -9,6 +9,6 @@ entries:
     name: my-helm-chart
     type: application
     urls:
-    - https://fullstackjava082023.github.io/helm-configmapclear/my-helm-chart-2.1.1.tgz
+    - https://fullstackjava082023.github.io/helm-configmap/my-helm-chart-2.1.1.tgz
     version: 2.1.1
 generated: "2024-11-17T21:07:50.8455977+02:00"
